@@ -28,8 +28,11 @@
         width: fit-content;
         height: fit-content;
         z-index: 50;
-        left: 39%;
+        width: 100%;
         top:5%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
 
     }
     .body{
@@ -287,6 +290,12 @@ align-items: center;
         z-index: 50;
         left: 18%;
         top:10%;
+         width: 100%;
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
 
         img{
             width: 100%;
